@@ -37,7 +37,7 @@ This project demonstrates how SQL can be used to extract, analyze, and summarize
 
 The ER diagram below illustrates how stock, company, and industry entities are structured:
 
-![ER Diagram](ER-model.docx)
+![ER Diagram](ER-model.png)
 
 ---
 
@@ -51,7 +51,7 @@ GROUP BY PERMNO;
 ```
 
 ### ➤ Visualization of Results:
-![Market Cap Statistics](market_cap_stats.png)
+![Market Cap Statistics](market-cap.png)
 
 ---
 
