@@ -80,7 +80,7 @@ WHERE RET < 0.03;
 ```
 
 ### ➤ Sample Output:
-![Returns Under 3 Percent](returns_under_3.png)
+![Returns Under 3 Percent](returns-3.png)
 
 ---
 
