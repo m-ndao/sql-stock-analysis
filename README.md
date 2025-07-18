@@ -37,7 +37,7 @@ This project demonstrates how SQL can be used to extract, analyze, and summarize
 
 The ER diagram below illustrates how stock, company, and industry entities are structured:
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](ER-model.docx)
 
 ---
 
